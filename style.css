@@ -1,0 +1,32 @@
+.menu {
+    background-color: gray; 
+ }
+ .list1 {
+     color: rgb(108, 106, 106);
+ }
+ button {
+     background-color: gray;
+     border: 0px;
+     color: bisque;
+     font-size: 42px;
+     margin-right: 72px;
+ }
+ h1  {
+     color: rgba(111, 69, 234, 0.521);
+ }
+ .text{
+     color: rgba(67, 87, 200, 0.653);
+ }
+ a {
+  color: cornflowerblue;
+ }
+ .list2 {
+     color: rgb(108, 106, 106);
+ }
+ .table {
+     border-color: lightsteelblue;
+     color: rgb(84, 80, 80);
+ }
+ .info {
+     color: rgb(85, 80, 80);
+ }
